@@ -1,0 +1,4 @@
+Model,Accuracy,F1
+twitter-roberta-base-sentiment-latest,0.7166666666666667,0.6382495026996307
+twitter-xlm-roberta-base-sentiment,0.75,0.6947990543735225
+distilbert-multilingual-sentiments,0.7666666666666667,0.7412903799550902

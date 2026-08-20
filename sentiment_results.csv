@@ -1,0 +1,61 @@
+review,true_label,model_1_prediction,model_1_score,model_2_prediction,model_2_score,model_3_prediction,model_3_score,model_1_correct,model_2_correct,model_3_correct
+The food was delicious and the staff were very friendly.,positive,positive,0.9841371774673462,positive,0.8995165228843689,positive,0.9215522408485413,True,True,True
+"Amazing restaurant, I loved the food and the service.",positive,positive,0.9864561557769775,positive,0.9397554993629456,positive,0.9840130805969238,True,True,True
+"The meal was fresh, tasty, and beautifully presented.",positive,positive,0.9833266139030457,positive,0.9274294972419739,positive,0.9621132612228394,True,True,True
+Excellent service and a very comfortable atmosphere.,positive,positive,0.9702200293540955,positive,0.9277942180633545,positive,0.9497988224029541,True,True,True
+I had a wonderful dinner and would definitely come again.,positive,positive,0.9883916974067688,positive,0.9340121746063232,negative,0.4593159258365631,True,True,False
+The staff were helpful and the food arrived quickly.,positive,positive,0.9657774567604065,positive,0.8509475588798523,positive,0.9055399894714355,True,True,True
+Everything tasted great and the restaurant was very clean.,positive,positive,0.9855238795280457,positive,0.8942493796348572,positive,0.9339258670806885,True,True,True
+The desserts were fantastic and the coffee was excellent.,positive,positive,0.9877031445503235,positive,0.9242825508117676,positive,0.9767888784408569,True,True,True
+The waiter was polite and made our experience enjoyable.,positive,positive,0.9570152163505554,positive,0.9014245271682739,positive,0.8331611156463623,True,True,True
+Great value for money and the portions were generous.,positive,positive,0.9727262258529663,positive,0.9062272906303406,positive,0.6682807207107544,True,True,True
+The restaurant was cozy and the food was full of flavor.,positive,positive,0.9668917655944824,positive,0.8875449299812317,positive,0.44719791412353516,True,True,True
+I really enjoyed the meal and the service was professional.,positive,positive,0.9828527569770813,positive,0.912259578704834,positive,0.8214836120605469,True,True,True
+"The food was hot, fresh, and exactly what I expected.",positive,positive,0.932392418384552,positive,0.8867189884185791,positive,0.6318694949150085,True,True,True
+A lovely place with friendly staff and excellent dishes.,positive,positive,0.9776275157928467,positive,0.9339659810066223,positive,0.9675775170326233,True,True,True
+The service was fast and the food quality was impressive.,positive,positive,0.979814350605011,positive,0.9084430932998657,positive,0.9262182712554932,True,True,True
+One of the best restaurant experiences I have had.,positive,positive,0.983353853225708,positive,0.9327444434165955,positive,0.9370095729827881,True,True,True
+The atmosphere was relaxing and the meal was delicious.,positive,positive,0.9818300604820251,positive,0.9178633093833923,positive,0.6879298686981201,True,True,True
+Everything was perfect from the service to the food.,positive,positive,0.9785398244857788,positive,0.856679379940033,positive,0.9586620926856995,True,True,True
+The staff welcomed us warmly and the food was amazing.,positive,positive,0.9879269003868103,positive,0.9277276396751404,positive,0.976198136806488,True,True,True
+I would recommend this restaurant to my friends.,positive,positive,0.9482290744781494,positive,0.8787623047828674,positive,0.5644404292106628,True,True,True
+The food was okay and the service was average.,neutral,positive,0.7535171508789062,negative,0.7701241970062256,negative,0.3998810648918152,False,False,False
+"The restaurant was fine, but nothing was special.",neutral,negative,0.557081937789917,negative,0.5140977501869202,neutral,0.5972369313240051,False,False,True
+The meal was acceptable and the waiting time was normal.,neutral,positive,0.8555512428283691,neutral,0.4858652949333191,positive,0.6205891966819763,False,True,False
+The food tasted average and the staff were polite.,neutral,negative,0.4521135985851288,positive,0.6467907428741455,negative,0.5055688619613647,False,False,False
+It was an ordinary restaurant experience.,neutral,neutral,0.6679327487945557,neutral,0.5524457693099976,neutral,0.5232528448104858,True,True,True
+The service was fine and the food was decent.,neutral,positive,0.9504353404045105,positive,0.8297795057296753,positive,0.6288890838623047,False,False,False
+"The restaurant was clean, but the menu was limited.",neutral,neutral,0.49942225217819214,negative,0.7057802081108093,neutral,0.47820550203323364,True,False,True
+The food was neither good nor bad.,neutral,positive,0.6404513716697693,negative,0.8933811783790588,positive,0.4721842408180237,False,False,False
+The meal was okay for the price.,neutral,positive,0.8741305470466614,positive,0.6213719248771667,negative,0.5176172852516174,False,False,False
+The atmosphere was quiet and the food was average.,neutral,negative,0.7718684673309326,negative,0.7916873693466187,negative,0.37280553579330444,False,False,False
+The staff did their job and the meal was acceptable.,neutral,positive,0.8276267647743225,positive,0.7881836891174316,positive,0.4893836975097656,False,False,False
+The restaurant was normal and the service was standard.,neutral,positive,0.7885036468505859,neutral,0.5182573199272156,neutral,0.5142685770988464,False,True,True
+"The food was fine, although I expected more variety.",neutral,positive,0.9249188303947449,positive,0.6180104613304138,positive,0.5082001686096191,False,False,False
+"Nothing went wrong, but nothing really impressed me.",neutral,neutral,0.4802492558956146,negative,0.440906286239624,neutral,0.6512038707733154,True,False,True
+The experience was acceptable overall.,neutral,positive,0.9296010136604309,positive,0.860329270362854,positive,0.8030522465705872,False,False,False
+The food arrived on time and tasted ordinary.,neutral,negative,0.7252773642539978,positive,0.6914284825325012,neutral,0.4608502984046936,False,False,True
+"The location was convenient, and everything else was average.",neutral,positive,0.812781572341919,negative,0.5647498369216919,positive,0.5374961495399475,False,False,False
+The portion size was normal and the meal was okay.,neutral,positive,0.7713568806648254,neutral,0.5350061058998108,neutral,0.45519235730171204,False,True,True
+The service was reasonable but not memorable.,neutral,negative,0.6728814840316772,negative,0.7216337323188782,neutral,0.5488115549087524,False,False,True
+It was a basic dining experience with average food.,neutral,negative,0.5741271376609802,neutral,0.5583259463310242,positive,0.5931093692779541,False,True,False
+The food was cold and the service was very slow.,negative,negative,0.9207888245582581,negative,0.8902561068534851,negative,0.8325420022010803,True,True,True
+I had a terrible experience and would not come back.,negative,negative,0.9373800158500671,negative,0.9226431846618652,negative,0.8723324537277222,True,True,True
+The meal tasted bad and the staff were rude.,negative,negative,0.9431266784667969,negative,0.9492276906967163,negative,0.962695300579071,True,True,True
+We waited too long and the food was disappointing.,negative,negative,0.9339204430580139,negative,0.9607593417167664,negative,0.5828640460968018,True,True,True
+The restaurant was dirty and the tables were not clean.,negative,negative,0.8938067555427551,negative,0.9359328746795654,negative,0.832894504070282,True,True,True
+The food was overpriced and the quality was poor.,negative,negative,0.93858802318573,negative,0.9410053491592407,negative,0.8991134762763977,True,True,True
+The waiter ignored us for a long time.,negative,negative,0.8263555765151978,negative,0.783158540725708,negative,0.4207368791103363,True,True,True
+My order was wrong and nobody helped me fix it.,negative,negative,0.9344843626022339,negative,0.8829067349433899,negative,0.8776355981826782,True,True,True
+The food arrived late and was not fresh.,negative,negative,0.8619394898414612,negative,0.8791138529777527,neutral,0.4974690079689026,True,True,False
+The atmosphere was noisy and uncomfortable.,negative,negative,0.8614620566368103,negative,0.9009256362915039,negative,0.7523245811462402,True,True,True
+The portions were small and the prices were too high.,negative,negative,0.7899505496025085,negative,0.8233399391174316,negative,0.5163862705230713,True,True,True
+I was disappointed by both the food and the service.,negative,negative,0.9178819060325623,negative,0.9362404942512512,negative,0.8231553435325623,True,True,True
+The restaurant was crowded and the staff were unorganized.,negative,negative,0.791208803653717,negative,0.9150632619857788,negative,0.682495653629303,True,True,True
+The meal was bland and not worth the money.,negative,negative,0.9157605767250061,negative,0.9317649602890015,negative,0.9099134802818298,True,True,True
+The service was extremely slow and frustrating.,negative,negative,0.9352836012840271,negative,0.9328256249427795,negative,0.9037482142448425,True,True,True
+The table was dirty when we arrived.,negative,negative,0.7830424904823303,negative,0.8976373672485352,negative,0.8369235992431641,True,True,True
+The food did not taste good and I could not finish it.,negative,negative,0.9400646090507507,negative,0.9122012257575989,negative,0.5729630589485168,True,True,True
+The staff were unfriendly and the experience was unpleasant.,negative,negative,0.9328399300575256,negative,0.9460235238075256,negative,0.7297779321670532,True,True,True
+The restaurant did not meet my expectations at all.,negative,negative,0.8919281959533691,negative,0.9129042029380798,negative,0.5095726847648621,True,True,True
+I would not recommend this place because the service was poor.,negative,negative,0.940116286277771,negative,0.933948814868927,negative,0.6710368990898132,True,True,True

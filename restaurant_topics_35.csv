@@ -1,0 +1,36 @@
+review,true_topic
+The burger was juicy and full of flavor.,Food Quality
+The pasta was overcooked and tasted bland.,Food Quality
+The dessert was fresh and delicious.,Food Quality
+The chicken was dry and had very little flavor.,Food Quality
+The seafood tasted fresh and was cooked perfectly.,Food Quality
+The waiter was friendly and very helpful.,Service
+The staff ignored us for almost twenty minutes.,Service
+Our server explained the menu clearly.,Service
+The employees were rude when we asked for help.,Service
+The staff handled our request professionally.,Service
+The meal was too expensive for such a small portion.,Price
+The prices were reasonable for the amount of food.,Price
+I think the restaurant is overpriced.,Price
+The lunch deal was good value for money.,Price
+The bill was much higher than I expected.,Price
+The tables and floor were very clean.,Cleanliness
+The bathroom was dirty and needed cleaning.,Cleanliness
+Everything looked clean and well maintained.,Cleanliness
+There were food stains on our table.,Cleanliness
+The lighting and music made the restaurant feel relaxing.,Atmosphere
+The restaurant was too noisy to enjoy dinner.,Atmosphere
+I loved the cozy design and quiet environment.,Atmosphere
+The dining area felt crowded and uncomfortable.,Atmosphere
+The restaurant is in a very convenient area.,Location
+It was difficult to find parking near the restaurant.,Location
+The restaurant is close to many shops and easy to reach.,Location
+The location is far from the main road.,Location
+We waited forty minutes before our food arrived.,Waiting Time
+Our order arrived very quickly.,Waiting Time
+The waiting time was much longer than expected.,Waiting Time
+We were seated immediately and served within ten minutes.,Waiting Time
+It took too long to get our drinks.,Waiting Time
+The food came out faster than I expected.,Waiting Time
+We waited a long time just to get the menu.,Waiting Time
+Service was quick even though the restaurant was busy.,Waiting Time

@@ -1,0 +1,36 @@
+review,true_topic,predicted_topic,score,correct
+The burger was juicy and full of flavor.,Food Quality,Food Quality,0.3905782401561737,True
+The pasta was overcooked and tasted bland.,Food Quality,Service,0.2152809053659439,False
+The dessert was fresh and delicious.,Food Quality,Service,0.24948526918888092,False
+The chicken was dry and had very little flavor.,Food Quality,Location,0.22111845016479492,False
+The seafood tasted fresh and was cooked perfectly.,Food Quality,Food Quality,0.4652029275894165,True
+The waiter was friendly and very helpful.,Service,Service,0.7856865525245667,True
+The staff ignored us for almost twenty minutes.,Service,Waiting Time,0.30248382687568665,False
+Our server explained the menu clearly.,Service,Service,0.4100733697414398,True
+The employees were rude when we asked for help.,Service,Service,0.4334428012371063,True
+The staff handled our request professionally.,Service,Service,0.5855481028556824,True
+The meal was too expensive for such a small portion.,Price,Price,0.4624176323413849,True
+The prices were reasonable for the amount of food.,Price,Price,0.6015275716781616,True
+I think the restaurant is overpriced.,Price,Price,0.6396916508674622,True
+The lunch deal was good value for money.,Price,Price,0.3529336750507355,True
+The bill was much higher than I expected.,Price,Price,0.3486107587814331,True
+The tables and floor were very clean.,Cleanliness,Cleanliness,0.7078889012336731,True
+The bathroom was dirty and needed cleaning.,Cleanliness,Cleanliness,0.40544411540031433,True
+Everything looked clean and well maintained.,Cleanliness,Cleanliness,0.9129708409309387,True
+There were food stains on our table.,Cleanliness,Location,0.28281909227371216,False
+The lighting and music made the restaurant feel relaxing.,Atmosphere,Atmosphere,0.3525395691394806,True
+The restaurant was too noisy to enjoy dinner.,Atmosphere,Location,0.3094748258590698,False
+I loved the cozy design and quiet environment.,Atmosphere,Location,0.39263564348220825,False
+The dining area felt crowded and uncomfortable.,Atmosphere,Location,0.34650397300720215,False
+The restaurant is in a very convenient area.,Location,Location,0.5601631999015808,True
+It was difficult to find parking near the restaurant.,Location,Location,0.549042820930481,True
+The restaurant is close to many shops and easy to reach.,Location,Location,0.5321182012557983,True
+The location is far from the main road.,Location,Location,0.852199375629425,True
+We waited forty minutes before our food arrived.,Waiting Time,Waiting Time,0.685732901096344,True
+Our order arrived very quickly.,Waiting Time,Service,0.707227885723114,False
+The waiting time was much longer than expected.,Waiting Time,Waiting Time,0.9607893824577332,True
+We were seated immediately and served within ten minutes.,Waiting Time,Service,0.7229360938072205,False
+It took too long to get our drinks.,Waiting Time,Waiting Time,0.3041178286075592,True
+The food came out faster than I expected.,Waiting Time,Service,0.39469945430755615,False
+We waited a long time just to get the menu.,Waiting Time,Waiting Time,0.5900254249572754,True
+Service was quick even though the restaurant was busy.,Waiting Time,Service,0.9070925116539001,False
