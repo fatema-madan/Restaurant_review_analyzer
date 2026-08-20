@@ -20,7 +20,7 @@ st.write("Analyze restaurant feedback using Hugging Face NLP models.")
 # Model Caching for smooth performance
 @st.cache_resource
 def load_sentiment_model(model_name):
-    return pipeline("text-classification", model=model_name, use_fast=False)
+    return pipeline("text-classification", model=model_name)
 
 @st.cache_resource
 def load_zeroshot_model():
